@@ -1,0 +1,11 @@
+.header-wrapper {
+    display: block;
+    background-color: crimson;
+}
+
+.header-text {
+    margin: 0;
+    padding: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+}

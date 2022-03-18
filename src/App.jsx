@@ -1,11 +1,10 @@
 import './App.css';
-import Initial from './components';
-
+import Body from './components/body';
 
 function App() {
   return (
     <div className="App">
-      <Initial />
+      <Body />
      
     </div>
   );
